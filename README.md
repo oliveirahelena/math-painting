@@ -1,6 +1,6 @@
-# Projeto Base Python
+# Math Painting
 
-Projeto base para iniciar qualquer projeto Python.
+Projeto em Python que cria uma imagem com figuras geométricas baseada nas coordenadas fornecidas.
 
 ## Instalar dependências
 
