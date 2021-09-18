@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 pydantic = "*"
+numpy = "*"
+pillow = "*"
 
 [dev-packages]
 pytest-cov = "*"
